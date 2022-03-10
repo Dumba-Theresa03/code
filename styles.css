@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@600&display=swap');
+
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+h3{
+    color: blue;
+    font-size: large
+}
+h4{
+font-weight: 700;
+}
+h2{
+    text-align: center;
+}
+header h2{
+    color: blueviolet;
+}
+div >h4{
+color: aqua;
+text-align: center;
+font-weight: 700;
+}
+button:hover{
+    background-color: brown;
+}
+#about-section{
+    background-color: aqua;
+}
+#contact-section{
+    background-color: blue;
+}
+
+
+
